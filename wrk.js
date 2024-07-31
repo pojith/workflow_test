@@ -1,5 +1,5 @@
 const h =()=>{
-    return "h";
+    return "gh";
     }
     
     module.exports=h;
