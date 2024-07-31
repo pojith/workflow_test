@@ -1,5 +1,5 @@
 const h =()=>{
-    return "heloo";
+    return "funkgit ";
     }
     
     module.exports=h;
